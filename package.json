@@ -1,0 +1,17 @@
+{
+  "name": "func",
+  "version": "0.0.1",
+  "main": "./src/index.js",
+  "repository": "git@github.com:codecarrotlabs/func.git",
+  "author": {
+    "name": "Yashu Mittal",
+    "email": "yashu@codecarrot.net"
+  },
+  "license": "MIT",
+  "dependencies": {
+    "lodash": "^4.17.21"
+  },
+  "peerDependencies": {
+    "uuid": "^8.3.2"
+  }
+}
